@@ -1,0 +1,5 @@
+com\viho\bean\Person.class
+com\viho\bean\Dog.class
+com\viho\controller\Hello1Controller.class
+com\viho\HelloWorldMainApplication.class
+META-INF\spring-configuration-metadata.json

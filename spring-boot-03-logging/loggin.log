@@ -1,0 +1,11 @@
+2020-11-19 16:12:22.872===[main]===INFO ===c.v.springboot.SpringBoot03LoggingApplicationTests ==== Starting SpringBoot03LoggingApplicationTests using Java 1.8.0_171 on VihoPC with PID 12468 (started by viho in H:\IDEAspace\springbootlearn\spring-boot-03-logging)
+2020-11-19 16:12:22.875===[main]===DEBUG===c.v.springboot.SpringBoot03LoggingApplicationTests ==== Running with Spring Boot v2.4.0, Spring v5.3.1
+2020-11-19 16:12:22.880===[main]===INFO ===c.v.springboot.SpringBoot03LoggingApplicationTests ==== No active profile set, falling back to default profiles: default
+2020-11-19 16:12:25.518===[main]===INFO ===o.s.scheduling.concurrent.ThreadPoolTaskExecutor ==== Initializing ExecutorService 'applicationTaskExecutor'
+2020-11-19 16:12:26.183===[main]===INFO ===c.v.springboot.SpringBoot03LoggingApplicationTests ==== Started SpringBoot03LoggingApplicationTests in 4.19 seconds (JVM running for 6.218)
+2020-11-19 16:12:26.540===[main]===TRACE===c.v.springboot.SpringBoot03LoggingApplicationTests ==== 用来跟踪信息
+2020-11-19 16:12:26.540===[main]===DEBUG===c.v.springboot.SpringBoot03LoggingApplicationTests ==== debug信息
+2020-11-19 16:12:26.541===[main]===INFO ===c.v.springboot.SpringBoot03LoggingApplicationTests ==== 输出信息
+2020-11-19 16:12:26.542===[main]===WARN ===c.v.springboot.SpringBoot03LoggingApplicationTests ==== 警告信息
+2020-11-19 16:12:26.543===[main]===ERROR===c.v.springboot.SpringBoot03LoggingApplicationTests ==== 错误信息
+2020-11-19 16:12:26.579===[SpringContextShutdownHook]===INFO ===o.s.scheduling.concurrent.ThreadPoolTaskExecutor ==== Shutting down ExecutorService 'applicationTaskExecutor'

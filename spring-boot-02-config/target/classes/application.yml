@@ -1,0 +1,18 @@
+#当有application.properties和application.yml同时设置端口时 优先使用yml的配置
+#server:
+#  port: 8980
+#
+#person:
+#  lastName: zhangsan
+#  age: 18
+#  isBoss: false
+#  birth: 2017/12/12
+#  map: {k1: v1,k2: v2}
+#  list:
+#    - lisi
+#    - zhaoliu
+#  dog:
+#    name: wangwang
+#    age: 2
+
+

@@ -1,0 +1,47 @@
+{
+  "groups": [
+    {
+      "name": "person1",
+      "type": "com.viho.bean.Person",
+      "sourceType": "com.viho.bean.Person"
+    }
+  ],
+  "properties": [
+    {
+      "name": "person1.age",
+      "type": "java.lang.Integer",
+      "sourceType": "com.viho.bean.Person"
+    },
+    {
+      "name": "person1.birth",
+      "type": "java.util.Date",
+      "sourceType": "com.viho.bean.Person"
+    },
+    {
+      "name": "person1.boss",
+      "type": "java.lang.Boolean",
+      "sourceType": "com.viho.bean.Person"
+    },
+    {
+      "name": "person1.dog",
+      "type": "com.viho.bean.Dog",
+      "sourceType": "com.viho.bean.Person"
+    },
+    {
+      "name": "person1.last-name",
+      "type": "java.lang.String",
+      "sourceType": "com.viho.bean.Person"
+    },
+    {
+      "name": "person1.list",
+      "type": "java.util.List<java.lang.Object>",
+      "sourceType": "com.viho.bean.Person"
+    },
+    {
+      "name": "person1.map",
+      "type": "java.util.Map<java.lang.String,java.lang.Object>",
+      "sourceType": "com.viho.bean.Person"
+    }
+  ],
+  "hints": []
+}
